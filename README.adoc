@@ -5,7 +5,7 @@
 //
 // Contributors:
 //     IBM Corporation
-//
+// 1
 :page-layout: guide-multipane
 :projectid: spring-boot
 :page-duration: 20 minutes
