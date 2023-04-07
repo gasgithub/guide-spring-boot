@@ -8,7 +8,7 @@ public class HelloController {
     
     @RequestMapping("/hello")
     public String hello() {
-        return "Greetings from Spring Boot!";
+        return "Greetings from Spring Boot running on OpenLiberty!";
     }
     
 }
